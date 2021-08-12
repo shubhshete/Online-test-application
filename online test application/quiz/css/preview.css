@@ -1,0 +1,51 @@
+.tablle
+{
+    border: solid red;
+}
+
+.table table-striped
+{
+    margin-top: 50px;
+    background-color: red;
+
+}
+
+.aaaa table tr th
+{
+    color: white;
+}
+.aaaa table tr th 
+{
+    color: yellow;
+}
+
+.aaaa table
+{
+    margin-top: 100px;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+
+
+body
+{
+    background-color: #FF3CAC; 
+      background-image: linear-gradient(225deg, #FF3CAC 0%, #784BA0 50%, #2B86C5 100%); 
+      
+
+}
+
+#one
+{
+    color: yellow;
+}
+
+.aaaa table tr:hover
+{
+    background-image:linear-gradient(225deg, #2314f7 0%, #00eeff 50%, #2B86C5 100%) ;
+   
+}
+.aaaa table tr th:hover
+{
+    color: white;
+}
